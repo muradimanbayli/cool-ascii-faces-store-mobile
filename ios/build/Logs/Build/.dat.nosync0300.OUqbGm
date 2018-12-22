@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>43D10276-80CC-4842-B07A-3E05FAE87C3C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>43D10276-80CC-4842-B07A-3E05FAE87C3C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>createllaMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>createllaMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project createllaMobile with scheme createllaMobile and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>567200102.93739998</real>
+			<key>timeStoppedRecording</key>
+			<real>567200106.50691104</real>
+			<key>title</key>
+			<string>Building project createllaMobile with scheme createllaMobile and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>43D10276-80CC-4842-B07A-3E05FAE87C3C</string>
+		</dict>
+		<key>E1DF8F84-CB5E-48D4-B2BE-B16721A2C42E</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E1DF8F84-CB5E-48D4-B2BE-B16721A2C42E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>createllaMobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>createllaMobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project createllaMobile with scheme createllaMobile and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>567199513.02727902</real>
+			<key>timeStoppedRecording</key>
+			<real>567199513.75180495</real>
+			<key>title</key>
+			<string>Building project createllaMobile with scheme createllaMobile and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>E1DF8F84-CB5E-48D4-B2BE-B16721A2C42E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
